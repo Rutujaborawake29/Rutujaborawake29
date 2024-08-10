@@ -18,6 +18,7 @@ I'm a passionate and aspiring Data Analyst with a keen interest in turning data 
 ## 📫 How to Reach Me
 - Email:rutushali614@gmail.com
 - LinkedIn:www.linkedin.com/in/rutuja-borawake-85675b24a
+- Portfolio:https://rutujaborawake29.github.io/
 - GitHub:where you are right now 😄
 
 ## ⚡ Fun Fact
