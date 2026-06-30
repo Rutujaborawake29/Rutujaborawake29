@@ -1,27 +1,92 @@
 # Hi there, I'm Rutuja Borawake! 👋
 
-## 👀 About Me
-I'm a passionate and aspiring Data Analyst with a keen interest in turning data into actionable insights. I have a strong foundation in data analysis, statistics, and programming, and I am constantly seeking to improve my skills and knowledge in this ever-evolving field.
+## 🚀 About Me
+
+I'm a passionate AI Engineer with hands-on experience building intelligent applications using Machine Learning, Generative AI, Retrieval-Augmented Generation (RAG), and Agentic AI. I enjoy transforming complex business problems into scalable AI solutions using modern LLMs, Python, and cloud-ready architectures.
+
+I believe AI should solve real-world problems, automate workflows, and create measurable business value.
+
+---
+
+## 🧠 Technical Skills
+
+- **Programming:** Python, SQL
+- **Generative AI:** LLMs, Prompt Engineering, RAG, AI Agents
+- **Frameworks:** LangChain, LangGraph, LlamaIndex
+- **Backend:** FastAPI, REST APIs
+- **Vector Databases:** FAISS, ChromaDB, Pinecone
+- **Embeddings:** Hugging Face Sentence Transformers
+- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch (Basics)
+- **Libraries:** Pandas, NumPy, Matplotlib
+- **Version Control:** Git & GitHub
+- **Deployment:** Docker ,AWS(Learning)
+
+---
 
 ## 🌱 Currently Learning
-- Advanced Data Analysis techniques
-- Machine Learning and AI fundamentals
-- Data Visualization tools like Tableau and Power BI
-- Python libraries: Pandas, NumPy, Matplotlib, Seaborn
-- SQL and database management
+
+- Advanced Agentic AI Workflows
+- Multi-Agent Systems
+- AI Evaluation (LangSmith, RAGAS, DeepEval)
+- Fine-Tuning LLMs
+- Model Deployment & MLOps
+- AWS & Azure AI Services
+
+---
+
+## 💼 Featured Projects
+
+### 🤖 AI Medical Chatbot
+- Built an end-to-end RAG application using Python, LangChain, FastAPI, Gemini, and FAISS.
+- Implemented semantic search with Hugging Face embeddings.
+- Developed REST APIs and integrated a responsive HTML/CSS frontend.
+
+### 📄 Document Question Answering System
+- Built a Retrieval-Augmented Generation pipeline capable of answering questions from PDF documents.
+- Used vector embeddings, chunking strategies, and similarity search to improve response accuracy.
+
+### 🧠 Agentic AI Workflows
+- Designed AI workflows using LangGraph with multiple nodes, conditional routing, and parallel execution.
+
+### 📊 Machine Learning Projects
+- Sales Forecasting
+- HR Analytics Dashboard
+- Diwali Sales Analysis
+- Iris Classification
+- Stock Market Prediction
+
+---
 
 ## 💞️ Looking to Collaborate On
-- Data analysis projects that provide real-world solutions
-- Open-source projects related to data science and analytics
-- Collaborative learning and study groups in data science and analytics
 
-## 📫 How to Reach Me
-- Email:rutushali614@gmail.com
-- LinkedIn:www.linkedin.com/in/rutuja-borawake-85675b24a
-- Portfolio:https://rutujaborawake29.github.io/
-- GitHub:where you are right now 😄
+- Generative AI Applications
+- AI Agent Development
+- RAG Systems
+- Open Source AI Projects
+- LLM-based Applications
+- Machine Learning Projects
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** rutushali614@gmail.com
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/rutuja-borawake/
+
+🌐 **Portfolio:**  
+https://rutujaborawake29.github.io/
+
+💻 **GitHub:**  
+https://github.com/Rutujaborawake29
+
+---
 
 ## ⚡ Fun Fact
-Did you know that data analysts often spend about 80% of their time cleaning and preparing data? It's a crucial step to ensure accurate and valuable insights from the analysis!
 
-Feel free to reach out if you want to collaborate or just chat about data! I'm excited to connect with fellow enthusiasts and professionals in the field.
+I love building AI applications from scratch—from data ingestion and vector databases to deploying complete LLM-powered applications with FastAPI. Every project is an opportunity to learn, experiment, and create solutions that make a real impact.
+
+---
+
+⭐ *"Building intelligent systems that solve real-world problems with AI."*
